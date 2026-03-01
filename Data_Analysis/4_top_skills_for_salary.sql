@@ -20,7 +20,7 @@ GROUP BY
     skills
 ORDER BY
     avg_salary DESC
-LIMIT 25
+LIMIT 25;
 
 /*
 Programming & Query Languages dominate demand (24 mentions) 

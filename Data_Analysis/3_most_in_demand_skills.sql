@@ -18,4 +18,9 @@ GROUP BY
     skills
 ORDER BY
     demand_count DESC
-LIMIT 5
+LIMIT 5;
+
+/*
+The top 5 skills for all Data Analyst jobs are in descending order, 
+SQL, Excel, Python, Tableau and Power BI; with SQL exceeding the others by far. 
+*/ 
