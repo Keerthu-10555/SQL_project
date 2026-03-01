@@ -32,7 +32,7 @@ INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY
     salary_year_avg DESC;
 
-/*Here's the breakdown of the most demanded skills for dtat analysts in 2023, based on job postings:
+/*Here's the breakdown of the most demanded skills for data analysts in 2023, based on job postings:
 
 *Core Technical Skills Dominate
 
